@@ -1,0 +1,4 @@
+model_checkpoint_path: "infogan.ckpt-132000"
+all_model_checkpoint_paths: "infogan.ckpt-131000"
+all_model_checkpoint_paths: "infogan.ckpt-131500"
+all_model_checkpoint_paths: "infogan.ckpt-132000"
